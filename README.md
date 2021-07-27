@@ -1,4 +1,4 @@
-# alet_cantam
+# my-essentials-bag
 
 A new Flutter project.
 
